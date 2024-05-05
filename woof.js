@@ -1,4 +1,4 @@
-// Create the data to be sent in the POST request
+console.log("Hello, World!");
 const postData = {
   key1: "value1",
   key2: "value2",
